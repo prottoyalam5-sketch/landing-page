@@ -1,0 +1,47 @@
+div{
+    background-color: #1F2937;
+    align-self: top;
+    margin: 20;
+    padding: 20;
+
+}
+
+.top{
+    font-size: 18px;
+    color: #F9FAF8;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.header{
+    font-size: 48px;
+    font-weight: 900;
+    display: flex;
+}
+.left{
+    justify-content: start;
+    flex-direction: column;
+    align-content: flex-end;
+    color: #F9FAF8;
+}
+.right{
+    justify-content:end;
+    align-content: center;
+    background-color: bisque;
+    height: 400px;
+    width: 400px;
+}
+.txt{
+    align-content: center;
+    background-color: bisque;
+}
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    align-content: end;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
